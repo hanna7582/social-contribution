@@ -1,0 +1,33 @@
+[{
+    "ctpName": "서울특별시",
+    "wkAttRt": 22,
+    "wkExRt": 21,
+    "wkAvgScore": 21,
+    "wkAvgLrnSec": 111,
+    "totalStudCnt": 6206
+  },
+  {
+    "ctpName": "세종특별자치시",
+    "wkAttRt": 20,
+    "wkExRt": 22,
+    "wkAvgScore": 17,
+    "wkAvgLrnSec": 129,
+    "totalStudCnt": 5038
+  },
+  {
+    "ctpName": "강원도",
+    "wkAttRt": 24,
+    "wkExRt": 24,
+    "wkAvgScore": 21,
+    "wkAvgLrnSec": 118,
+    "totalStudCnt": 8240
+  },
+  {
+    "ctpName": "제주특별자치도",
+    "wkAttRt": 22,
+    "wkExRt": 45,
+    "wkAvgScore": 10,
+    "wkAvgLrnSec": 126,
+    "totalStudCnt": 4810
+  }
+]

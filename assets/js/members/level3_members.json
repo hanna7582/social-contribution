@@ -1,0 +1,1002 @@
+[
+ {
+   "lat": 37.502816,
+   "lng": 127.010493,
+   "ctpName": "서울특별시 서초구 반포동",
+   "wkAttRt": 43,
+   "wkExRt": 82,
+   "wkAvgScore": 2,
+   "wkAvgLrnSec": 356,
+   "totalStudCnt": 177
+ },
+ {
+   "lat": 37.484677,
+   "lng": 126.989955,
+   "ctpName": "서울특별시 서초구 방배동",
+   "wkAttRt": 81,
+   "wkExRt": 60,
+   "wkAvgScore": 80,
+   "wkAvgLrnSec": 595,
+   "totalStudCnt": 61
+ },
+ {
+   "lat": 37.488514,
+   "lng": 127.016222,
+   "ctpName": "서울특별시 서초구 서초동",
+   "wkAttRt": 20,
+   "wkExRt": 9,
+   "wkAvgScore": 8,
+   "wkAvgLrnSec": 145,
+   "totalStudCnt": 278
+ },
+ {
+   "lat": 37.474839,
+   "lng": 127.041717,
+   "ctpName": "서울특별시 서초구 양재동",
+   "wkAttRt": 71,
+   "wkExRt": 90,
+   "wkAvgScore": 45,
+   "wkAvgLrnSec": 683,
+   "totalStudCnt": 295
+ },
+ {
+   "lat": 37.466629,
+   "lng": 127.021892,
+   "ctpName": "서울특별시 서초구 우면동",
+   "wkAttRt": 100,
+   "wkExRt": 45,
+   "wkAvgScore": 24,
+   "wkAvgLrnSec": 469,
+   "totalStudCnt": 216
+ },
+ {
+   "lat": 37.513667,
+   "lng": 127.016166,
+   "ctpName": "서울특별시 서초구 잠원동",
+   "wkAttRt": 18,
+   "wkExRt": 72,
+   "wkAvgScore": 7,
+   "wkAvgLrnSec": 126,
+   "totalStudCnt": 370
+ },
+ {
+   "lat": 37.47826,
+   "lng": 127.052024,
+   "ctpName": "서울특별시 강남구 개포동",
+   "wkAttRt": 1,
+   "wkExRt": 30,
+   "wkAvgScore": 37,
+   "wkAvgLrnSec": 136,
+   "totalStudCnt": 97
+ },
+ {
+   "lat": 37.513093,
+   "lng": 127.031353,
+   "ctpName": "서울특별시 강남구 논현동",
+   "wkAttRt": 12,
+   "wkExRt": 91,
+   "wkAvgScore": 21,
+   "wkAvgLrnSec": 592,
+   "totalStudCnt": 450
+ },
+ {
+   "lat": 37.501711,
+   "lng": 127.057851,
+   "ctpName": "서울특별시 강남구 대치동",
+   "wkAttRt": 77,
+   "wkExRt": 31,
+   "wkAvgScore": 94,
+   "wkAvgLrnSec": 263,
+   "totalStudCnt": 232
+ },
+ {
+   "lat": 37.486509,
+   "lng": 127.040738,
+   "ctpName": "서울특별시 강남구 도곡동",
+   "wkAttRt": 14,
+   "wkExRt": 40,
+   "wkAvgScore": 52,
+   "wkAvgLrnSec": 427,
+   "totalStudCnt": 154
+ },
+ {
+   "lat": 37.512792,
+   "lng": 127.053085,
+   "ctpName": "서울특별시 강남구 삼성동",
+   "wkAttRt": 65,
+   "wkExRt": 71,
+   "wkAvgScore": 89,
+   "wkAvgLrnSec": 541,
+   "totalStudCnt": 480
+ },
+ {
+   "lat": 37.466494,
+   "lng": 127.103021,
+   "ctpName": "서울특별시 강남구 세곡동",
+   "wkAttRt": 11,
+   "wkExRt": 68,
+   "wkAvgScore": 30,
+   "wkAvgLrnSec": 173,
+   "totalStudCnt": 230
+ },
+ {
+   "lat": 37.522893,
+   "lng": 127.028589,
+   "ctpName": "서울특별시 강남구 신사동",
+   "wkAttRt": 29,
+   "wkExRt": 35,
+   "wkAvgScore": 63,
+   "wkAvgLrnSec": 226,
+   "totalStudCnt": 93
+ },
+ {
+   "lat": 37.528752,
+   "lng": 127.031766,
+   "ctpName": "서울특별시 강남구 압구정동",
+   "wkAttRt": 99,
+   "wkExRt": 52,
+   "wkAvgScore": 99,
+   "wkAvgLrnSec": 114,
+   "totalStudCnt": 333
+ },
+ {
+   "lat": 37.621298,
+   "lng": 127.024902,
+   "ctpName": "서울특별시 강북구 미아동",
+   "wkAttRt": 63,
+   "wkExRt": 51,
+   "wkAvgScore": 26,
+   "wkAvgLrnSec": 111,
+   "totalStudCnt": 375
+ },
+ {
+   "lat": 37.635123,
+   "lng": 127.032072,
+   "ctpName": "서울특별시 강북구 번동",
+   "wkAttRt": 23,
+   "wkExRt": 69,
+   "wkAvgScore": 54,
+   "wkAvgLrnSec": 581,
+   "totalStudCnt": 332
+ },
+ {
+   "lat": 37.639388,
+   "lng": 127.017183,
+   "ctpName": "서울특별시 강북구 수유동",
+   "wkAttRt": 95,
+   "wkExRt": 14,
+   "wkAvgScore": 75,
+   "wkAvgLrnSec": 68,
+   "totalStudCnt": 69
+ },
+ {
+   "lat": 37.658785,
+   "lng": 127.01119,
+   "ctpName": "서울특별시 강북구 우이동",
+   "wkAttRt": 12,
+   "wkExRt": 81,
+   "wkAvgScore": 75,
+   "wkAvgLrnSec": 177,
+   "totalStudCnt": 100
+ },
+ {
+   "lat": 37.568238,
+   "lng": 126.845059,
+   "ctpName": "서울특별시 강서구 가양동",
+   "wkAttRt": 20,
+   "wkExRt": 18,
+   "wkAvgScore": 19,
+   "wkAvgLrnSec": 511,
+   "totalStudCnt": 190
+ },
+ {
+   "lat": 37.582069,
+   "lng": 126.801198,
+   "ctpName": "서울특별시 강서구 개화동",
+   "wkAttRt": 20,
+   "wkExRt": 5,
+   "wkAvgScore": 100,
+   "wkAvgLrnSec": 412,
+   "totalStudCnt": 328
+ },
+ {
+   "lat": 37.558805,
+   "lng": 126.813297,
+   "ctpName": "서울특별시 강서구 공항동",
+   "wkAttRt": 4,
+   "wkExRt": 29,
+   "wkAvgScore": 43,
+   "wkAvgLrnSec": 42,
+   "totalStudCnt": 486
+ },
+ {
+   "lat": 37.552616,
+   "lng": 126.83573,
+   "ctpName": "서울특별시 강서구 내발산동",
+   "wkAttRt": 74,
+   "wkExRt": 54,
+   "wkAvgScore": 74,
+   "wkAvgLrnSec": 686,
+   "totalStudCnt": 321
+ },
+ {
+   "lat": 37.551325,
+   "lng": 126.858411,
+   "ctpName": "서울특별시 강서구 등촌동",
+   "wkAttRt": 8,
+   "wkExRt": 91,
+   "wkAvgScore": 82,
+   "wkAvgLrnSec": 195,
+   "totalStudCnt": 314
+ },
+ {
+   "lat": 37.566092,
+   "lng": 126.830395,
+   "ctpName": "서울특별시 강서구 마곡동",
+   "wkAttRt": 24,
+   "wkExRt": 51,
+   "wkAvgScore": 14,
+   "wkAvgLrnSec": 293,
+   "totalStudCnt": 470
+ },
+ {
+   "lat": 37.569138,
+   "lng": 126.812192,
+   "ctpName": "서울특별시 강서구 방화동",
+   "wkAttRt": 21,
+   "wkExRt": 78,
+   "wkAvgScore": 14,
+   "wkAvgLrnSec": 497,
+   "totalStudCnt": 115
+ },
+ {
+   "lat": 37.551366,
+   "lng": 126.8713,
+   "ctpName": "서울특별시 강서구 염창동",
+   "wkAttRt": 1,
+   "wkExRt": 96,
+   "wkAvgScore": 23,
+   "wkAvgLrnSec": 40,
+   "totalStudCnt": 194
+ },
+ {
+   "lat": 37.538358,
+   "lng": 126.847336,
+   "ctpName": "서울특별시 강서구 화곡동",
+   "wkAttRt": 11,
+   "wkExRt": 21,
+   "wkAvgScore": 63,
+   "wkAvgLrnSec": 366,
+   "totalStudCnt": 420
+ },
+ {
+   "lat": 37.847748,
+   "lng": 128.761495,
+   "ctpName": "강원도 강릉시 연곡면",
+   "wkAttRt": 99,
+   "wkExRt": 27,
+   "wkAvgScore": 70,
+   "wkAvgLrnSec": 153,
+   "totalStudCnt": 118
+ },
+ {
+   "lat": 37.883872,
+   "lng": 128.823886,
+   "ctpName": "강원도 강릉시 주문진읍",
+   "wkAttRt": 72,
+   "wkExRt": 25,
+   "wkAvgScore": 11,
+   "wkAvgLrnSec": 579,
+   "totalStudCnt": 72
+ },
+ {
+   "lat": 37.73852,
+   "lng": 128.960559,
+   "ctpName": "강원도 강릉시 강동면",
+   "wkAttRt": 30,
+   "wkExRt": 18,
+   "wkAvgScore": 100,
+   "wkAvgLrnSec": 375,
+   "totalStudCnt": 485
+ },
+ {
+   "lat": 37.795176,
+   "lng": 128.917233,
+   "ctpName": "강원도 강릉시 강문동",
+   "wkAttRt": 93,
+   "wkExRt": 97,
+   "wkAvgScore": 23,
+   "wkAvgLrnSec": 650,
+   "totalStudCnt": 275
+ },
+ {
+   "lat": 37.763169,
+   "lng": 128.888037,
+   "ctpName": "강원도 강릉시 교동",
+   "wkAttRt": 14,
+   "wkExRt": 32,
+   "wkAvgScore": 7,
+   "wkAvgLrnSec": 58,
+   "totalStudCnt": 439
+ },
+ {
+   "lat": 37.721853,
+   "lng": 128.877571,
+   "ctpName": "강원도 강릉시 구정면",
+   "wkAttRt": 24,
+   "wkExRt": 28,
+   "wkAvgScore": 15,
+   "wkAvgLrnSec": 526,
+   "totalStudCnt": 354
+ },
+ {
+   "lat": 37.825944,
+   "lng": 128.857105,
+   "ctpName": "강원도 강릉시 사천면",
+   "wkAttRt": 11,
+   "wkExRt": 4,
+   "wkAvgScore": 16,
+   "wkAvgLrnSec": 420,
+   "totalStudCnt": 111
+ },
+ {
+   "lat": 37.75289,
+   "lng": 128.898396,
+   "ctpName": "강원도 강릉시 성남동",
+   "wkAttRt": 40,
+   "wkExRt": 44,
+   "wkAvgScore": 8,
+   "wkAvgLrnSec": 625,
+   "totalStudCnt": 259
+ },
+ {
+   "lat": 37.775901,
+   "lng": 128.932055,
+   "ctpName": "강원도 강릉시 송정동",
+   "wkAttRt": 49,
+   "wkExRt": 7,
+   "wkAvgScore": 100,
+   "wkAvgLrnSec": 68,
+   "totalStudCnt": 379
+ },
+ {
+   "lat": 37.608926,
+   "lng": 129.032424,
+   "ctpName": "강원도 강릉시 옥계면",
+   "wkAttRt": 80,
+   "wkExRt": 32,
+   "wkAvgScore": 51,
+   "wkAvgLrnSec": 47,
+   "totalStudCnt": 320
+ },
+ {
+   "lat": 37.758644,
+   "lng": 128.901438,
+   "ctpName": "강원도 강릉시 옥천동",
+   "wkAttRt": 53,
+   "wkExRt": 93,
+   "wkAvgScore": 10,
+   "wkAvgLrnSec": 698,
+   "totalStudCnt": 354
+ },
+ {
+   "lat": 37.788102,
+   "lng": 128.914248,
+   "ctpName": "강원도 강릉시 초당동",
+   "wkAttRt": 39,
+   "wkExRt": 64,
+   "wkAvgScore": 11,
+   "wkAvgLrnSec": 641,
+   "totalStudCnt": 399
+ },
+ {
+   "lat": 37.770414,
+   "lng": 128.90991,
+   "ctpName": "강원도 강릉시 포남동",
+   "wkAttRt": 7,
+   "wkExRt": 53,
+   "wkAvgScore": 64,
+   "wkAvgLrnSec": 660,
+   "totalStudCnt": 63
+ },
+ {
+   "lat": 38.143816,
+   "lng": 127.317125,
+   "ctpName": "강원도 철원군 갈말읍",
+   "wkAttRt": 36,
+   "wkExRt": 76,
+   "wkAvgScore": 89,
+   "wkAvgLrnSec": 118,
+   "totalStudCnt": 468
+ },
+ {
+   "lat": 38.272196,
+   "lng": 127.518951,
+   "ctpName": "강원도 철원군 근남면",
+   "wkAttRt": 72,
+   "wkExRt": 51,
+   "wkAvgScore": 19,
+   "wkAvgLrnSec": 342,
+   "totalStudCnt": 477
+ },
+ {
+   "lat": 38.302492,
+   "lng": 127.397986,
+   "ctpName": "강원도 철원군 근북면",
+   "wkAttRt": 51,
+   "wkExRt": 42,
+   "wkAvgScore": 18,
+   "wkAvgLrnSec": 35,
+   "totalStudCnt": 426
+ },
+ {
+   "lat": 38.249663,
+   "lng": 127.416363,
+   "ctpName": "강원도 철원군 김화읍",
+   "wkAttRt": 26,
+   "wkExRt": 80,
+   "wkAvgScore": 93,
+   "wkAvgLrnSec": 499,
+   "totalStudCnt": 291
+ },
+ {
+   "lat": 38.204315,
+   "lng": 127.219688,
+   "ctpName": "강원도 철원군 동송읍",
+   "wkAttRt": 89,
+   "wkExRt": 48,
+   "wkAvgScore": 37,
+   "wkAvgLrnSec": 599,
+   "totalStudCnt": 198
+ },
+ {
+   "lat": 38.240302,
+   "lng": 127.438699,
+   "ctpName": "강원도 철원군 서면",
+   "wkAttRt": 76,
+   "wkExRt": 13,
+   "wkAvgScore": 98,
+   "wkAvgLrnSec": 587,
+   "totalStudCnt": 337
+ },
+ {
+   "lat": 38.216021,
+   "lng": 127.213129,
+   "ctpName": "강원도 철원군 철원읍",
+   "wkAttRt": 43,
+   "wkExRt": 89,
+   "wkAvgScore": 1,
+   "wkAvgLrnSec": 97,
+   "totalStudCnt": 172
+ },
+ {
+   "lat": 37.480253,
+   "lng": 129.128553,
+   "ctpName": "강원도 동해시 구미동",
+   "wkAttRt": 62,
+   "wkExRt": 65,
+   "wkAvgScore": 54,
+   "wkAvgLrnSec": 389,
+   "totalStudCnt": 416
+ },
+ {
+   "lat": 37.47617,
+   "lng": 129.140075,
+   "ctpName": "강원도 동해시 구호동",
+   "wkAttRt": 30,
+   "wkExRt": 63,
+   "wkAvgScore": 86,
+   "wkAvgLrnSec": 588,
+   "totalStudCnt": 247
+ },
+ {
+   "lat": 37.475225,
+   "lng": 129.095527,
+   "ctpName": "강원도 동해시 귀운동",
+   "wkAttRt": 99,
+   "wkExRt": 43,
+   "wkAvgScore": 29,
+   "wkAvgLrnSec": 636,
+   "totalStudCnt": 418
+ },
+ {
+   "lat": 37.485113,
+   "lng": 129.111202,
+   "ctpName": "강원도 동해시 나안동",
+   "wkAttRt": 10,
+   "wkExRt": 32,
+   "wkAvgScore": 85,
+   "wkAvgLrnSec": 594,
+   "totalStudCnt": 345
+ },
+ {
+   "lat": 37.53059,
+   "lng": 129.109913,
+   "ctpName": "강원도 동해시 평릉동",
+   "wkAttRt": 20,
+   "wkExRt": 20,
+   "wkAvgScore": 62,
+   "wkAvgLrnSec": 21,
+   "totalStudCnt": 334
+ },
+ {
+   "lat": 37.496558,
+   "lng": 129.108898,
+   "ctpName": "강원도 동해시 효가동",
+   "wkAttRt": 87,
+   "wkExRt": 26,
+   "wkAvgScore": 1,
+   "wkAvgLrnSec": 569,
+   "totalStudCnt": 63
+ },
+ {
+   "lat": 37.500032,
+   "lng": 129.100075,
+   "ctpName": "강원도 동해시 지흥동",
+   "wkAttRt": 86,
+   "wkExRt": 22,
+   "wkAvgScore": 94,
+   "wkAvgLrnSec": 128,
+   "totalStudCnt": 422
+ },
+ {
+   "lat": 37.520403,
+   "lng": 129.113138,
+   "ctpName": "강원도 동해시 천곡동",
+   "wkAttRt": 53,
+   "wkExRt": 93,
+   "wkAvgScore": 25,
+   "wkAvgLrnSec": 342,
+   "totalStudCnt": 272
+ },
+ {
+   "lat": 37.497236,
+   "lng": 129.126405,
+   "ctpName": "강원도 동해시 송정동",
+   "wkAttRt": 5,
+   "wkExRt": 7,
+   "wkAvgScore": 32,
+   "wkAvgLrnSec": 210,
+   "totalStudCnt": 267
+ },
+ {
+   "lat": 37.485841,
+   "lng": 129.096176,
+   "ctpName": "강원도 동해시 쇄운동",
+   "wkAttRt": 60,
+   "wkExRt": 47,
+   "wkAvgScore": 73,
+   "wkAvgLrnSec": 96,
+   "totalStudCnt": 308
+ },
+ {
+   "lat": 37.580761,
+   "lng": 129.082211,
+   "ctpName": "강원도 동해시 심곡동",
+   "wkAttRt": 97,
+   "wkExRt": 12,
+   "wkAvgScore": 77,
+   "wkAvgLrnSec": 577,
+   "totalStudCnt": 267
+ },
+ {
+   "lat": 37.508627,
+   "lng": 129.120504,
+   "ctpName": "강원도 동해시 용정동",
+   "wkAttRt": 7,
+   "wkExRt": 67,
+   "wkAvgScore": 75,
+   "wkAvgLrnSec": 106,
+   "totalStudCnt": 331
+ },
+ {
+   "lat": 37.54744,
+   "lng": 129.104621,
+   "ctpName": "강원도 동해시 발한동",
+   "wkAttRt": 15,
+   "wkExRt": 21,
+   "wkAvgScore": 92,
+   "wkAvgLrnSec": 670,
+   "totalStudCnt": 460
+ },
+ {
+   "lat": 37.5379,
+   "lng": 129.103957,
+   "ctpName": "강원도 동해시 부곡동",
+   "wkAttRt": 78,
+   "wkExRt": 41,
+   "wkAvgScore": 75,
+   "wkAvgLrnSec": 674,
+   "totalStudCnt": 494
+ },
+ {
+   "lat": 33.248323,
+   "lng": 126.49124,
+   "ctpName": "제주특별자치도 서귀포시 강정동",
+   "wkAttRt": 25,
+   "wkExRt": 14,
+   "wkAvgScore": 98,
+   "wkAvgLrnSec": 528,
+   "totalStudCnt": 74
+ },
+ {
+   "lat": 33.313637,
+   "lng": 126.756395,
+   "ctpName": "제주특별자치도 서귀포시 남원읍",
+   "wkAttRt": 30,
+   "wkExRt": 72,
+   "wkAvgScore": 58,
+   "wkAvgLrnSec": 640,
+   "totalStudCnt": 323
+ },
+ {
+   "lat": 33.266417,
+   "lng": 126.257273,
+   "ctpName": "제주특별자치도 서귀포시 대정읍",
+   "wkAttRt": 63,
+   "wkExRt": 48,
+   "wkAvgScore": 20,
+   "wkAvgLrnSec": 52,
+   "totalStudCnt": 170
+ },
+ {
+   "lat": 33.247863,
+   "lng": 126.437408,
+   "ctpName": "제주특별자치도 서귀포시 대포동",
+   "wkAttRt": 3,
+   "wkExRt": 14,
+   "wkAvgScore": 37,
+   "wkAvgLrnSec": 92,
+   "totalStudCnt": 298
+ },
+ {
+   "lat": 33.254758,
+   "lng": 126.473867,
+   "ctpName": "제주특별자치도 서귀포시 도순동",
+   "wkAttRt": 8,
+   "wkExRt": 20,
+   "wkAvgScore": 6,
+   "wkAvgLrnSec": 511,
+   "totalStudCnt": 377
+ },
+ {
+   "lat": 33.259684,
+   "lng": 126.569479,
+   "ctpName": "제주특별자치도 서귀포시 동홍동",
+   "wkAttRt": 82,
+   "wkExRt": 33,
+   "wkAvgScore": 10,
+   "wkAvgLrnSec": 239,
+   "totalStudCnt": 64
+ },
+ {
+   "lat": 33.240371,
+   "lng": 126.512796,
+   "ctpName": "제주특별자치도 서귀포시 법환동",
+   "wkAttRt": 26,
+   "wkExRt": 72,
+   "wkAvgScore": 68,
+   "wkAvgLrnSec": 195,
+   "totalStudCnt": 392
+ },
+ {
+   "lat": 33.257448,
+   "lng": 126.387801,
+   "ctpName": "제주특별자치도 서귀포시 상예동",
+   "wkAttRt": 97,
+   "wkExRt": 88,
+   "wkAvgScore": 14,
+   "wkAvgLrnSec": 630,
+   "totalStudCnt": 357
+ },
+ {
+   "lat": 33.284368,
+   "lng": 126.598396,
+   "ctpName": "제주특별자치도 서귀포시 상효동",
+   "wkAttRt": 59,
+   "wkExRt": 60,
+   "wkAvgScore": 78,
+   "wkAvgLrnSec": 289,
+   "totalStudCnt": 152
+ },
+ {
+   "lat": 33.262951,
+   "lng": 126.413206,
+   "ctpName": "제주특별자치도 서귀포시 색달동",
+   "wkAttRt": 67,
+   "wkExRt": 40,
+   "wkAvgScore": 40,
+   "wkAvgLrnSec": 38,
+   "totalStudCnt": 61
+ },
+ {
+   "lat": 33.248077,
+   "lng": 126.563275,
+   "ctpName": "제주특별자치도 서귀포시 서귀동",
+   "wkAttRt": 5,
+   "wkExRt": 41,
+   "wkAvgScore": 36,
+   "wkAvgLrnSec": 623,
+   "totalStudCnt": 202
+ },
+ {
+   "lat": 33.256997,
+   "lng": 126.518095,
+   "ctpName": "제주특별자치도 서귀포시 서호동",
+   "wkAttRt": 36,
+   "wkExRt": 61,
+   "wkAvgScore": 38,
+   "wkAvgLrnSec": 191,
+   "totalStudCnt": 437
+ },
+ {
+   "lat": 33.474036,
+   "lng": 126.899877,
+   "ctpName": "제주특별자치도 서귀포시 성산읍",
+   "wkAttRt": 8,
+   "wkExRt": 26,
+   "wkAvgScore": 25,
+   "wkAvgLrnSec": 394,
+   "totalStudCnt": 500
+ },
+ {
+   "lat": 33.264832,
+   "lng": 126.610278,
+   "ctpName": "제주특별자치도 서귀포시 신효동",
+   "wkAttRt": 18,
+   "wkExRt": 21,
+   "wkAvgScore": 72,
+   "wkAvgLrnSec": 658,
+   "totalStudCnt": 442
+ },
+ {
+   "lat": 33.23403,
+   "lng": 126.301198,
+   "ctpName": "제주특별자치도 서귀포시 안덕면",
+   "wkAttRt": 52,
+   "wkExRt": 53,
+   "wkAvgScore": 46,
+   "wkAvgLrnSec": 674,
+   "totalStudCnt": 304
+ },
+ {
+   "lat": 33.255965,
+   "lng": 126.427081,
+   "ctpName": "제주특별자치도 서귀포시 중문동",
+   "wkAttRt": 17,
+   "wkExRt": 65,
+   "wkAvgScore": 47,
+   "wkAvgLrnSec": 470,
+   "totalStudCnt": 109
+ },
+ {
+   "lat": 33.270975,
+   "lng": 126.585383,
+   "ctpName": "제주특별자치도 서귀포시 토평동",
+   "wkAttRt": 56,
+   "wkExRt": 28,
+   "wkAvgScore": 95,
+   "wkAvgLrnSec": 534,
+   "totalStudCnt": 462
+ },
+ {
+   "lat": 33.354784,
+   "lng": 126.771072,
+   "ctpName": "제주특별자치도 서귀포시 표선면",
+   "wkAttRt": 29,
+   "wkExRt": 45,
+   "wkAvgScore": 59,
+   "wkAvgLrnSec": 679,
+   "totalStudCnt": 186
+ },
+ {
+   "lat": 33.259869,
+   "lng": 126.459962,
+   "ctpName": "제주특별자치도 서귀포시 하원동",
+   "wkAttRt": 28,
+   "wkExRt": 39,
+   "wkAvgScore": 17,
+   "wkAvgLrnSec": 406,
+   "totalStudCnt": 71
+ },
+ {
+   "lat": 36.424128,
+   "lng": 127.285043,
+   "ctpName": "세종특별자치시 금남면",
+   "wkAttRt": 78,
+   "wkExRt": 67,
+   "wkAvgScore": 29,
+   "wkAvgLrnSec": 203,
+   "totalStudCnt": 234
+ },
+ {
+   "lat": 36.556026,
+   "lng": 127.373885,
+   "ctpName": "세종특별자치시 부강면",
+   "wkAttRt": 94,
+   "wkExRt": 22,
+   "wkAvgScore": 68,
+   "wkAvgLrnSec": 129,
+   "totalStudCnt": 249
+ },
+ {
+   "lat": 36.725102,
+   "lng": 127.166031,
+   "ctpName": "세종특별자치시 소정면",
+   "wkAttRt": 60,
+   "wkExRt": 98,
+   "wkAvgScore": 42,
+   "wkAvgLrnSec": 557,
+   "totalStudCnt": 301
+ },
+ {
+   "lat": 36.504815,
+   "lng": 127.285928,
+   "ctpName": "세종특별자치시 연기면",
+   "wkAttRt": 45,
+   "wkExRt": 10,
+   "wkAvgScore": 84,
+   "wkAvgLrnSec": 522,
+   "totalStudCnt": 213
+ },
+ {
+   "lat": 36.568956,
+   "lng": 127.32922,
+   "ctpName": "세종특별자치시 연동면",
+   "wkAttRt": 6,
+   "wkExRt": 28,
+   "wkAvgScore": 25,
+   "wkAvgLrnSec": 119,
+   "totalStudCnt": 186
+ },
+ {
+   "lat": 36.584206,
+   "lng": 127.248482,
+   "ctpName": "세종특별자치시 연서면",
+   "wkAttRt": 98,
+   "wkExRt": 23,
+   "wkAvgScore": 25,
+   "wkAvgLrnSec": 34,
+   "totalStudCnt": 343
+ },
+ {
+   "lat": 36.517308,
+   "lng": 127.190919,
+   "ctpName": "세종특별자치시 장군면",
+   "wkAttRt": 26,
+   "wkExRt": 40,
+   "wkAvgScore": 4,
+   "wkAvgLrnSec": 571,
+   "totalStudCnt": 445
+ },
+ {
+   "lat": 36.627889,
+   "lng": 127.239621,
+   "ctpName": "세종특별자치시 전동면",
+   "wkAttRt": 72,
+   "wkExRt": 69,
+   "wkAvgScore": 1,
+   "wkAvgLrnSec": 204,
+   "totalStudCnt": 321
+ },
+ {
+   "lat": 36.703739,
+   "lng": 127.209292,
+   "ctpName": "세종특별자치시 전의면",
+   "wkAttRt": 94,
+   "wkExRt": 56,
+   "wkAvgScore": 29,
+   "wkAvgLrnSec": 13,
+   "totalStudCnt": 118
+ },
+ {
+   "lat": 36.599705,
+   "lng": 127.303264,
+   "ctpName": "세종특별자치시 조치원읍",
+   "wkAttRt": 91,
+   "wkExRt": 34,
+   "wkAvgScore": 94,
+   "wkAvgLrnSec": 296,
+   "totalStudCnt": 385
+ },
+ {
+   "lat": 36.468807,
+   "lng": 127.244749,
+   "ctpName": "세종특별자치시 가람동",
+   "wkAttRt": 12,
+   "wkExRt": 52,
+   "wkAvgScore": 89,
+   "wkAvgLrnSec": 652,
+   "totalStudCnt": 276
+ },
+ {
+   "lat": 36.51022,
+   "lng": 127.23476,
+   "ctpName": "세종특별자치시 고운동",
+   "wkAttRt": 33,
+   "wkExRt": 22,
+   "wkAvgScore": 98,
+   "wkAvgLrnSec": 595,
+   "totalStudCnt": 177
+ },
+ {
+   "lat": 36.486889,
+   "lng": 127.259118,
+   "ctpName": "세종특별자치시 나성동",
+   "wkAttRt": 59,
+   "wkExRt": 85,
+   "wkAvgScore": 21,
+   "wkAvgLrnSec": 244,
+   "totalStudCnt": 369
+ },
+ {
+   "lat": 36.495213,
+   "lng": 127.245856,
+   "ctpName": "세종특별자치시 다정동",
+   "wkAttRt": 32,
+   "wkExRt": 44,
+   "wkAvgScore": 94,
+   "wkAvgLrnSec": 372,
+   "totalStudCnt": 477
+ },
+ {
+   "lat": 36.471713,
+   "lng": 127.277455,
+   "ctpName": "세종특별자치시 대평동",
+   "wkAttRt": 7,
+   "wkExRt": 72,
+   "wkAvgScore": 50,
+   "wkAvgLrnSec": 700,
+   "totalStudCnt": 273
+ },
+ {
+   "lat": 36.514336,
+   "lng": 127.259684,
+   "ctpName": "세종특별자치시 도담동",
+   "wkAttRt": 47,
+   "wkExRt": 58,
+   "wkAvgScore": 92,
+   "wkAvgLrnSec": 605,
+   "totalStudCnt": 182
+ },
+ {
+   "lat": 36.494662,
+   "lng": 127.308345,
+   "ctpName": "세종특별자치시 반곡동",
+   "wkAttRt": 38,
+   "wkExRt": 2,
+   "wkAvgScore": 33,
+   "wkAvgLrnSec": 183,
+   "totalStudCnt": 256
+ },
+ {
+   "lat": 36.478251,
+   "lng": 127.289096,
+   "ctpName": "세종특별자치시 보람동",
+   "wkAttRt": 41,
+   "wkExRt": 46,
+   "wkAvgScore": 32,
+   "wkAvgLrnSec": 608,
+   "totalStudCnt": 203
+ },
+ {
+   "lat": 36.485406,
+   "lng": 127.301358,
+   "ctpName": "세종특별자치시 소담동",
+   "wkAttRt": 55,
+   "wkExRt": 32,
+   "wkAvgScore": 99,
+   "wkAvgLrnSec": 210,
+   "totalStudCnt": 290
+ },
+ {
+   "lat": 36.501589,
+   "lng": 127.263578,
+   "ctpName": "세종특별자치시 어진동",
+   "wkAttRt": 60,
+   "wkExRt": 15,
+   "wkAvgScore": 61,
+   "wkAvgLrnSec": 554,
+   "totalStudCnt": 466
+ }
+]
