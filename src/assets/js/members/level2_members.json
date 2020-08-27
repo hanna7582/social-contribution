@@ -1,0 +1,65 @@
+[{
+    "ctpName": "서울특별시 서초구",
+    "wkAttRt": 36,
+    "wkExRt": 50,
+    "wkAvgScore": 22,
+    "wkAvgLrnSec": 187,
+    "totalStudCnt": 1066
+  },
+  {
+    "ctpName": "서울특별시 강남구",
+    "wkAttRt": 14,
+    "wkExRt": 90,
+    "wkAvgScore": 22,
+    "wkAvgLrnSec": 80,
+    "totalStudCnt": 2047
+  },
+  {
+    "ctpName": "서울특별시 강북구",
+    "wkAttRt": 20,
+    "wkExRt": 16,
+    "wkAvgScore": 11,
+    "wkAvgLrnSec": 89,
+    "totalStudCnt": 1056
+  },
+  {
+    "ctpName": "서울특별시 강서구",
+    "wkAttRt": 24,
+    "wkExRt": 75,
+    "wkAvgScore": 23,
+    "wkAvgLrnSec": 115,
+    "totalStudCnt": 2037
+  },
+  {
+    "ctpName": "강원도 강릉시",
+    "wkAttRt": 24,
+    "wkExRt": 24,
+    "wkAvgScore": 14,
+    "wkAvgLrnSec": 104,
+    "totalStudCnt": 3775
+  },
+  {
+    "ctpName": "강원도 철원군",
+    "wkAttRt": 19,
+    "wkExRt": 25,
+    "wkAvgScore": 21,
+    "wkAvgLrnSec": 130,
+    "totalStudCnt": 1707
+  },
+  {
+    "ctpName": "강원도 동해시",
+    "wkAttRt": 28,
+    "wkExRt": 24,
+    "wkAvgScore": 31,
+    "wkAvgLrnSec": 130,
+    "totalStudCnt": 2758
+  },
+  {
+    "ctpName": "제주특별자치도 서귀포시",
+    "wkAttRt": 22,
+    "wkExRt": 45,
+    "wkAvgScore": 10,
+    "wkAvgLrnSec": 126,
+    "totalStudCnt": 4810
+  }
+]
